@@ -40,7 +40,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^5.0.0",
     "gulp": "^4.0.2",
     "gulp-sass": "^4.1.0",
     "react-scripts": "^3.4.1"
